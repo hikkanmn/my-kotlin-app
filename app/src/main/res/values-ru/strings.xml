@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Гурмания</string>
+    <string name="main_text_first">Добро пожаловать!</string>
+    <string name="main_text_second">Гурмания — это приложение, которое откроет для вас безграничный мир кулинарных идей и вдохновения. Попробуйте и вдохновляйтесь каждый день!</string>
+    <string name="main_page_photo">main_page_photo</string>
+    <string name="dish_of_the_day">Блюдо дня</string>
+    <string name="channel_name">Уведомления о блюдах</string>
+    <string name="channel_description">Оповещения о рецептах дня</string>
+    <string name="tap_to_view">Нажмите, чтобы посмотреть блюдо дня</string>
+
+    <string name="main_button">НАЙТИ РЕЦЕПТЫ</string>
+    <string name="search_hint">Поиск рецептов</string>
+    <string name="text_back">Назад</string>
+    <string name="text_day">Рецепт дня</string>
+    <string name="text_search">ПОИСК</string>
+    <string name="text_search_example">Введите название блюда</string>
+    <string name="text_button_settings">Настройки</string>
+    <string name="text_button_favorites">Любимые блюда</string>
+    <string name="text_favorites">У вас пока нет избранных рецептов</string>
+    <string name="search_text_ex">Введите название блюда</string>
+    <string name="text_settings_language_main">Язык системы</string>
+    <string name="text_settings_language_ru">Русский</string>
+    <string name="text_settings_language_en">Английский</string>
+    <string name="text_settings_theme_main">Тема приложения</string>
+    <string name="text_settings_theme_white">Светлая</string>
+    <string name="text_settings_theme_black">Темная</string>
+    <string name="text_day_main_name">ЦЕЗАРЬ</string>
+    <string name="full_recipe">Смотреть полный рецепт</string>
+    <string name="text_day_description_kkal">168 ккал на 100г</string>
+    <string name="text_day_description_belky">32% белки</string>
+    <string name="text_day_description_zhiry">35% жиры</string>
+    <string name="text_day_description_uglevody">32% углеводы</string>
+    <string name="text_day_recipe">Продукты: куриное филе (200 г), салат «Ромэн»  (1 пучок), белый хлеб (2 ломтика), пармезан (30 г), оливковое масло (2 ст. л.), чеснок (1 зубчик), соль, перец (по вкусу), майонез (2 ст. л.), лимонный сок (1 ст. л.), горчица (1 ч. л.), анчоусы (2 шт.), чеснок  (1 зубчик).
+Гренки: Нарежь хлеб кубиками, обжарь на сковороде с чесноком и оливковым маслом до хрустящей корочки.
+Курица: Обжарь куриное филе на сковороде до золотистой корочки, нарежь кусочками.
+Соус: Смешай майонез, лимонный сок, горчицу, измельчённые анчоусы и чеснок.
+Салат: Выложи листья салата, добавь курицу, гренки, натри сверху пармезан.
+Подача: Полей соусом и наслаждайся!</string>
+
+    <string name="notification_text">Не забудьте попробовать новый рецепт!</string>
+    <string name="notification_title">Напоминание о рецепте</string>
+</resources>

@@ -1,0 +1,19 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Тень -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/grey" /> <!-- Серый цвет для тени -->
+            <corners android:radius="35dp"/>
+        </shape>
+    </item>
+
+    <!-- Круглая кнопка -->
+    <item android:bottom="1dp" android:right="1dp" android:top="1dp" android:left="1dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/white"/> <!-- Белый фон кнопки -->
+            <corners android:radius="50dp"/>
+        </shape>
+    </item>
+
+</layer-list>
