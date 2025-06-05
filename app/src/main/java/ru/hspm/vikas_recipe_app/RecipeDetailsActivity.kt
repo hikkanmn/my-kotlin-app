@@ -36,4 +36,4 @@ class RecipeDetailsActivity : AppCompatActivity() {
         
         recipeInstructions.text = recipe.instructions
     }
-} 
+}

@@ -41,4 +41,7 @@
 
     <string name="notification_text">Не забудьте попробовать новый рецепт!</string>
     <string name="notification_title">Напоминание о рецепте</string>
+
+    <string name="details_ingredients">Ингредиенты</string>
+    <string name="details_instructions">Инструкции</string>
 </resources>

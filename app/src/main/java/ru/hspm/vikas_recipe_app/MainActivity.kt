@@ -17,11 +17,6 @@ import androidx.core.content.ContextCompat
 
 class MainActivity : AppCompatActivity() {
 
-    companion object {
-        private const val CHANNEL_ID = "recipes_channel"
-        private const val NOTIFICATION_PERMISSION_REQUEST = 1001
-    }
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -34,6 +29,11 @@ class MainActivity : AppCompatActivity() {
     fun openSearchActivity(view: View) {
         val intent = Intent(this, SearchActivity::class.java)
         startActivity(intent)
+    }
+
+    companion object {
+        private const val CHANNEL_ID = "recipes_channel"
+        private const val NOTIFICATION_PERMISSION_REQUEST = 1001
     }
 
     private fun createNotificationChannel() {

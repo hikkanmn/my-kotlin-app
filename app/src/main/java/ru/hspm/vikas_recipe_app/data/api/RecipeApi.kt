@@ -19,11 +19,11 @@ interface RecipeApi {
         @Query("language") language: String = "ru"
     ): RecipeResponse
 
-    @GET("recipes/{id}/information")
-    suspend fun getRecipeDetails(
-        @Path("id") id: Int,
-        @Query("apiKey") apiKey: String,
-        @Query("includeNutrition") includeNutrition: Boolean = true,
-        @Query("language") language: String = "ru"
-    ): Recipe
+//    @GET("recipes/{id}/information")
+//    suspend fun getRecipeDetails(
+//        @Path("id") id: Int,
+//        @Query("apiKey") apiKey: String,
+//        @Query("includeNutrition") includeNutrition: Boolean = true,
+//        @Query("language") language: String = "ru"
+//    ): Recipe
 } 

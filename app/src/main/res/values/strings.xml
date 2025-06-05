@@ -41,4 +41,7 @@ Serving: Fill with sauce and enjoy!</string>
 
     <string name="notification_text">Don\'t forget to try the new recipe!</string>
     <string name="notification_title">Recipe Reminder</string>
+
+    <string name="details_ingredients">Ingredients</string>
+    <string name="details_instructions">Instructions</string>
 </resources>
